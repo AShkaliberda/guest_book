@@ -1,0 +1,13 @@
+.container{
+    width:40%;
+    margin:5% auto;
+    
+}
+
+.comment{
+    border-top: 1px solid black;
+}
+
+.my_pagination{
+    margin:0 auto;
+}
